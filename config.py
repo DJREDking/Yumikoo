@@ -6,7 +6,7 @@ API_ID = int(getenv("API_ID", "27205215"))
 API_HASH = getenv("API_HASH", "105e1f779e13d401ff0131bc88ed5063")
 BOT_USERNAME = getenv("BOT_USERNAME", "Dazai_ixbot")
 COMMAND_HANDLER = ["/", "!"]
-BOT_TOKEN = getenv("BOT_TOKEN", "6964505365:AAFzNSGY1ReQ2B68zjLzb3AAZAneVm7Epok")
+BOT_TOKEN = getenv("BOT_TOKEN", "7183352170:AAH6Sqw7oS4ZZr-TbydngSUQoOX0DM3dtMU")
 OWNER_ID = int(getenv("OWNER_ID", "5054912509"))
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "6758236533").split()))
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://teamdaxx123:teamdaxx123@cluster0.ysbpgcp.mongodb.net/?retryWrites=true&w=majority")
